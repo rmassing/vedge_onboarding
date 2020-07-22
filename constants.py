@@ -1,19 +1,20 @@
+# These are fake, you would need to add real address, servers and policies. 
 regionsab = {
-    'SJC': '10.35.104.0/21',
-    'RTP': '10.122.76.0/22',
-    'AER': '10.63.232.0/21',
-    'TEST': '10.40.137.0/24'
+    'SJC': '192.168.0.1/21',
+    'RTP': '192.168.76.0/22',
+    'AER': '192.168.232.0/21',
+    'TEST': '192.168.137.0/24'
 }
 regionspolicys = {
-    'SJC': 'San Jose Wireless LAN',
-    'RTP': 'RTP Wireless LAN',
-    'AER': 'Amsterdam WLAN',
-    'TEST': 'San Jose Wireless LAN'
+    'CHK': 'Chicago Wireless LAN',
+    'DFW': 'DFW Wireless LAN',
+    'HOL': 'Holland WLAN',
+    'TEST': 'Home Based LAN'
 }
 dhcpservers = {
-    'SJC': 'dhcp-mtv1-1-l',
-    'RTP': 'dhcp-rtp5-1-l',
-    'AER': 'dhcp-aer1-1-l',
+    'CHK': 'dhcp-mtv1-1-l',
+    'DFW': 'dhcp-rtp5-1-l',
+    'HOL': 'dhcp-aer1-1-l',
     'TEST': 'dhcp-mtv1-1-l'
 }
 callmanagers = {
