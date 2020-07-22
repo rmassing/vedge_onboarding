@@ -12,14 +12,14 @@ regionspolicys = {
     'TEST': 'Home Based LAN'
 }
 dhcpservers = {
-    'CHK': 'dhcp-mtv1-1-l',
-    'DFW': 'dhcp-rtp5-1-l',
-    'HOL': 'dhcp-aer1-1-l',
-    'TEST': 'dhcp-mtv1-1-l'
+    'CHK': 'server-chk-7-k',
+    'DFW': 'server-dfw-7-k',
+    'HOL': 'server-hol-7-k',
+    'TEST': 'server-test-7-k'
 }
 callmanagers = {
-    'SJC': '171.70.146.221,173.36.131.161',
-    'RTP': '64.100.36.165,64.100.24.202',
-    'AER': '144.254.75.175,64.103.100.5',
-    'TEST': '171.70.146.221,173.36.131.161',
+    'CHK': '192.168.146.221,192.168.131.161',
+    'DFW': '192.168.36.165,192.168.24.202',
+    'HOL': '192.168.75.175,192.168.100.5',
+    'TEST': '192.168.146.221,192.168.131.161',
 }

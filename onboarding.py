@@ -342,24 +342,6 @@ class UserOnboard:
 #     print("\n++++++++++++++++++++++")
 #     print("Starting New Test Run!")
 #     print("++++++++++++++++++++++\n")
-#     csv_file = "/Users/rmassing/Downloads/CVO-100WM-Bridge-test.csv"
-#     b = UserOnboard(csv_file)
-#     result = b.read_csv()
-#     # b = AddressMgmt("rmassing", "Nam~110800")
-#     # data = pandas.read_csv(csv_file)
-#     # print(data['csv-host-name'])
-#     # print(data.loc[:, ['csv-host-name', 'REGION']])
-#     # print(data.loc[[1, 3], ['title', 'rating']])
-#     # result = b.create_subnet("SJC", "rmassing")
-#     # result = b.create_scope(am,
-#     #                  hostname,
-#     #                  subnet,
-#     #                  gateway,
-#     #                  region,
-#     #                  ):
-#     # # result = b.openxlsx()
-#
-#     print(result)
 #     print("\n++++++++++++++++++")
 #     print("Test Run Complete!")
 #     print("++++++++++++++++++\n")

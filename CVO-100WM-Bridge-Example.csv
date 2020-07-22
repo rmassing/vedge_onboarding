@@ -1,7 +1,2 @@
 csv-deviceId,csv-deviceIP,csv-host-name,/100/irb1/interface/ip/address,/100/irb1/interface/dhcp-helper,/0/ge0/3/interface/tunnel-interface/encapsulation/ipsec/weight,/0/ge0/4/interface/tunnel-interface/encapsulation/ipsec/weight,//system/host-name,//system/gps-location/latitude,//system/gps-location/longitude,//system/system-ip,//system/site-id,REGION
-1781A4F2415185591,10.35.104.33,timiller-cvo-vEdge100WM,10.35.104.33/29,"171.70.168.39,173.36.131.31",1,1,timiller-cvo-vEdge100WM,33.508673,-112.030849,10.35.104.33,1840040002,SJC
-1781A4F2638182688,10.35.104.17,nortwong-cvo-vEdge100WM,10.35.104.17/29,"171.70.168.39,173.36.131.31",1,1,nortwong-cvo-vEdge100WM,37.411755,-121.92924,10.35.104.17,1840060000,SJC
-1781A4F2415185583,10.122.76.33,svandeho-cvo-vEdge100WM,10.122.76.33/29,"64.102.6.162,64.101.49.191",1,1,svandeho-cvo-vEdge100WM,28.306938,-80.701238,10.122.76.33,2840120003,RTP
-1781A4F2429180054,,danshin-cvo-vEdge100WM,,"64.102.6.162,64.101.49.191",1,1,danshin-cvo-vEdge100WM,27.885962,-82.660858,,2840120004,RTP
-1781A4F2415184910,10.63.232.9,pcharret-cvo-vEdge100WM,10.63.232.9/29,"173.38.200.70,144.254.71.154",1,1,pcharret-cvo-vEdge100WM,50.14465,8.55511,10.63.232.9,3276000003,AER
-1781A4F2415184775,,obrigg-cvo-vEdge100WM,,"173.38.200.70,144.254.71.154",1,1,obrigg-cvo-vEdge100WM,32.28395,34.86001,,3376000000,AER
+1681J4F5418184402,192.168.104.33,billy-server-vEdge100WM,192.168.104.33/29,"192.168.168.39,192.168.131.31",1,1,billy-server-vEdge100WM,33.508673,-112.030849,192.168.104.33,1840040002,CHK
