@@ -1,2 +1,0 @@
-csv-deviceId,csv-deviceIP,csv-host-name,/100/irb1/interface/ip/address,/100/irb1/interface/dhcp-helper,/0/ge0/3/interface/tunnel-interface/encapsulation/ipsec/weight,/0/ge0/4/interface/tunnel-interface/encapsulation/ipsec/weight,//system/host-name,//system/gps-location/latitude,//system/gps-location/longitude,//system/system-ip,//system/site-id,REGION
-1681J4F5418184402,192.168.104.33,billy-server-vEdge100WM,192.168.104.33/29,"192.168.168.39,192.168.131.31",1,1,billy-server-vEdge100WM,33.508673,-112.030849,192.168.104.33,1840040002,CHK
